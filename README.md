@@ -14,7 +14,7 @@ You can see the results here :
 
 -   [Article de Blog](https://github.com/blanchonnicolas/IA_Project7_Openclassrooms_IA_SentimentAnalysis/blob/main/Blog.pdf)
 
--   [Vidéo](xx)
+-   [Vidéo](https://www.youtube.com/watch?v=EEbN3OIZhe4&list=PLMK88V6KsWhGZ8YF5D3ldT0ZCL5V7JYuC&index=8)
 
 -   [Notebook 1 : Simple Models](https://github.com/blanchonnicolas/IA_Project7_Openclassrooms_IA_SentimentAnalysis/blob/main/IABadBuzz_AirParadis_Mod%C3%A8leSimple.ipynb)
     - NLP pre-processing (Bag Of Words, TF-IDF, Tokenization, Lemmatization, Stemmatisation, Pipeline)
